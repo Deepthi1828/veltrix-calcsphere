@@ -67,15 +67,13 @@ JavaScript
 
 
 ## Project Structure
-┌───────────────────────────────┐
-│       Project Structure       │
-├───────────────────────────────┤
-│ veltrix-calcsphere/           │
-│ ├── index.html                │
-│ ├── style.css                 │
-│ ├── script.js                 │
-│ └── README.md                 │
-└───────────────────────────────┘
+
+veltrix-calcsphere/
+│
+├── index.html    # Main calculator structure
+├── style.css     # Styling, themes, and animations
+├── script.js     # Calculator logic and functionalities
+└── README.md     # Project documentation
 
 
 ## Keyboard Shortcuts
