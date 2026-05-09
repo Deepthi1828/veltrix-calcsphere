@@ -1,8 +1,8 @@
-"Veltrix - CalcSphere"
+# Veltrix - CalcSphere
 
 ## Overview
 
-CalcSphere is a modern scientific calculator web application developed using HTML, CSS, and JavaScript. The project focuses on combining advanced calculator functionalities with a sleek glassmorphism-inspired user interface, responsive interactions, and an enhanced user experience.
+CalcSphere is a modern scientific calculator web application developed using HTML, CSS, and JavaScript. The project combines advanced calculator functionalities with a sleek glassmorphism-inspired user interface, dynamic theme switching, keyboard accessibility, and real-time history management to deliver an enhanced and interactive user experience.
 
 ## Features
 
