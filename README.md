@@ -5,66 +5,62 @@
 CalcSphere is a modern scientific calculator web application developed using HTML, CSS, and JavaScript. The project focuses on combining advanced calculator functionalities with a sleek glassmorphism-inspired user interface, responsive interactions, and an enhanced user experience.
 
 ## Features
-Core Calculator Operations
-Addition (+)
-Subtraction (-)
-Multiplication (*)
-Division (/)
-Modulus (%)
-Decimal calculations
-Parentheses support
-Negative number calculations
 
+### Core Calculator Operations
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Modulus (%)
+- Decimal calculations
+- Parentheses support
+- Negative number calculations
 
-## Scientific Features
-Square Root (√)
-Square (x²)
-Dynamic expression evaluation
+### Scientific Features
+- Square Root (√)
+- Square (x²)
+- Dynamic expression evaluation
 
+### Theme System
+- Dark mode
+- Light mode
+- Smooth theme transitions
 
-## Theme System
-Dark mode
-Light mode
-Smooth theme transitions
+### History Management
+- Dedicated history side panel
+- Dynamic calculation tracking
+- History toggle functionality
+- Clear history option
 
+### Keyboard Support
+- Numeric keyboard input
+- Operator support using keyboard
+- Enter key for calculation
+- Backspace key for deletion
+- Escape key for clearing display
 
-## History Management
-Dedicated history side panel
-Dynamic calculation tracking
-History toggle functionality
-Clear history option
+### UI/UX Enhancements
+- Modern glassmorphism design
+- Floating calculator animation
+- Smooth hover and click effects
+- Responsive button layout
+- Professional color palette
+- Clean spacing and alignment
+- Interactive history drawer
+- Dynamic theme icons
 
+### Error Handling
+- Prevention of invalid operator combinations
+- Invalid expression handling
+- Safe calculation rendering
 
-## Keyboard Support
-Numeric keyboard input
-Operator support using keyboard
-Enter key for calculation
-Backspace key for deletion
-Escape key for clearing display
-
-
-## UI/UX Enhancements
-Modern glassmorphism design
-Floating calculator animation
-Smooth hover and click effects
-Responsive button layout
-Professional color palette
-Clean spacing and alignment
-Interactive history drawer
-Dynamic theme icons
-
-
-## Error Handling
-Prevention of invalid operator combinations
-Invalid expression handling
-Safe calculation rendering
 
 
 ## Technologies Used
-HTML5
-CSS3
-JavaScript
 
+- HTML5
+- CSS3
+- JavaScript
 
 ## Project Structure
 
