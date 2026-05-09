@@ -89,13 +89,16 @@ veltrix-calcsphere/
                                                                           
 
 ## Highlights
-Modern scientific calculator web application
-Advanced frontend UI with glassmorphism effects
-Integrated scientific calculation features
-Dynamic history management system
-Smooth dark/light theme switching
-Responsive and interactive user experience
-Keyboard-accessible calculator controls
+
+- Modern scientific calculator web application
+- Advanced frontend UI with glassmorphism effects
+- Integrated scientific calculation features
+- Dynamic history management system
+- Smooth dark/light theme switching
+- Responsive and interactive user experience
+- Keyboard-accessible calculator controls
+- Dedicated scientific operation support
+- Professional modern UI/UX design
 
 
 ## Author
