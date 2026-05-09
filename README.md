@@ -1,4 +1,4 @@
-Veltrix - CalcSphere
+"Veltrix - CalcSphere"
 
 ## Overview
 
@@ -68,6 +68,7 @@ JavaScript
 
 ## Project Structure
 
+
 veltrix-calcsphere/
 │
 ├── index.html    # Main calculator structure
@@ -76,13 +77,15 @@ veltrix-calcsphere/
 └── README.md     # Project documentation
 
 
-## Keyboard Shortcuts
-## Key	                                                    ## Function
-Enter	                                                      Calculate result
-Backspace	                                                  Delete last character
-Esc	                                                        Clear display
-Numbers	                                                    Numeric input
-+ - * / %	                                                  Operator input
+ ## Keyboard Shortcuts
+
+| Key | Function |
+|------|-----------|
+| Enter | Calculate result |
+| Backspace | Delete last character |
+| Esc | Clear display |
+| Numbers | Numeric input |
+| + - * / % | Operator input |
                                                                           
 
 ## Highlights
